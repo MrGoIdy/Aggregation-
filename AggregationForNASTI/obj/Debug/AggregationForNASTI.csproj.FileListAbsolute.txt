@@ -1,0 +1,7 @@
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\bin\Debug\AggregationForNASTI.exe.config
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\bin\Debug\AggregationForNASTI.exe
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\bin\Debug\AggregationForNASTI.pdb
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\bin\Debug\MySql.Data.dll
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\obj\Debug\AggregationForNASTI.csprojResolveAssemblyReference.cache
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\obj\Debug\AggregationForNASTI.exe
+D:\Projects\Work\AggregationForNASTI\AggregationForNASTI\obj\Debug\AggregationForNASTI.pdb
